@@ -1,0 +1,34 @@
+.home{
+  width: 24px;
+}
+.explore{
+  width: 24px;
+}
+.subscriptions{
+  width: 24px;
+}
+.originals{
+  width: 24px;
+}
+.ytmusic{
+  width: 24px;
+}
+.library{
+  width: 24px;
+}
+.heading{
+  font-size: 10px;
+  font-family: Roboto,Arial; display: flex;
+}
+.sidebar{
+  height: 76px;
+  width: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.sidebar:hover{
+  background-color: rgb(215, 213, 213);
+}
